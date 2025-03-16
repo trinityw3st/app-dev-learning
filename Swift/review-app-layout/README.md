@@ -4,6 +4,10 @@
 This project is a **review app UI clone**, developed by following **Code With Chris** tutorials on YouTube. The app mimics a modern review-based UI, displaying product images, reviews, and descriptions.
 
 ## 🎨 Screenshot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/review-app-layout/review-app-picture.png" width="300">
+</p>
+
 
 
 
