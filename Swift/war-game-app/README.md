@@ -5,10 +5,10 @@ This project is a **War Card Game App**, developed by following a **Code With Ch
 
 ## 🎨 Screenshots
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
+  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/review-app-layout/review-app-picture.png" width="300">
+  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/review-app-layout/review-app-picture.png" width="300">
+  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/review-app-layout/review-app-picture.png" width="300">
+  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/review-app-layout/review-app-picture.png" width="300">
 </p>
 
 ## 🛠️ Technologies Used
