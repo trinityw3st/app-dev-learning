@@ -5,7 +5,7 @@ This project is a **War Card Game App**, developed by following a **Code With Ch
 
 ## 🎨 Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/war-game-app/war-game-frontpage.png" width="175">
+  <img src="https://raw.githubusercontent.com/trinityw3st/Swift/main/war-game-app/war-game-frontpage.png" width="175">
   <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/war-game-app/wargame1.png" width="175">
   <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/war-game-app/wargame2.png" width="175">
   <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/war-game-app/wargame3.png" width="175">
