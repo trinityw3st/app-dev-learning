@@ -1,7 +1,5 @@
-# 📱 Mobile App Development Projects  
+# 📱 Swift App Projects
 
-This repository contains projects related to **learning mobile app development**.  
+This repository will hold all Swift app projects.
 
-- Currently in the process of learning react native, a react native folder will be visible soon. 
-
-Stay tuned for more projects and experiments! 🚀  
+Stay tuned for updates! 🚀
