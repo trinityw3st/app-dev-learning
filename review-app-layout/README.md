@@ -5,7 +5,7 @@ This project is a **review app UI clone**, developed by following **Code With Ch
 
 ## 🎨 Screenshot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinityw3st/app-dev-learning/main/Swift/review-app-layout/review-app-picture.png" width="300">
+  <img src="https://raw.githubusercontent.com/trinityw3st/swift-projects/main/review-app-layout/review-app-picture.png" width="300">
 </p>
 
 
